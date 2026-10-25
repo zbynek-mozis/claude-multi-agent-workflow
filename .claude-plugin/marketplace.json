@@ -1,0 +1,16 @@
+{
+  "name": "api-quality-marketplace",
+  "owner": {
+    "name": "Zbyněk Možíš"
+  },
+  "metadata": {
+    "description": "Marketplace that ships the api-quality plugin."
+  },
+  "plugins": [
+    {
+      "name": "api-quality",
+      "source": "./",
+      "description": "Multi-agent code-quality workflow for Express APIs: review, docs-drift audit, and test pinning."
+    }
+  ]
+}

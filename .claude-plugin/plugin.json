@@ -1,0 +1,11 @@
+{
+  "name": "api-quality",
+  "version": "0.1.0",
+  "description": "Code-quality workflow for Express APIs: parallel convention review and docs-drift audit, then a test writer that pins the findings in tests, plus a lint-on-edit hook.",
+  "author": {
+    "name": "Zbyněk Možíš"
+  },
+  "repository": "https://github.com/zbynek-mozis/claude-multi-agent-workflow",
+  "license": "MIT",
+  "keywords": ["code-quality", "express", "review", "testing", "multi-agent"]
+}
